@@ -1,0 +1,90 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 300 1.25em/1.7 'Open Sans';
+  color: rgb(39, 168, 245);
+}
+
+.dribbble,
+.pinterest {
+  float: left;
+  width: 11.3360323886%;
+  height: 28px;
+  margin-left: 26px;
+}
+
+.dribbble .image {
+  width: 28px;
+  margin-left: -0.44643%;
+}
+
+.github {
+  float: left;
+  width: 10.931174089%;
+  height: 22px;
+  margin: 4px 0 0 26px;
+}
+
+.github .image {
+  width: 27px;
+  margin-left: -0.28935%;
+}
+
+.image {
+  display: block;
+  float: left;
+  height: auto;
+  overflow: hidden;
+}
+
+.instagram {
+  float: left;
+  width: 10.931174089%;
+  height: 28px;
+  margin-left: 21px;
+}
+
+.instagram .image {
+  width: 27px;
+}
+
+.pinterest .image {
+  width: 28px;
+  margin-left: -0.27902%;
+}
+
+.profile-pic {
+  width: 170px;
+  height: 170px;
+  margin: 111px auto 0;
+  border-radius: 90px;
+  background: url('../images/samuele-profile-pic.jpg') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: center center;
+}
+
+.social {
+  width: 247px;
+  height: 34px;
+  margin: 100px auto 0;
+}
+
+.text {
+  width: 100%;
+  min-height: 83px;
+  margin: 32px auto 0;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(39, 168, 245);
+}
+
+.twitter {
+  float: left;
+  width: 14.979757085%;
+  height: 32px;
+  margin-top: 2px;
+}
+
+.twitter .image {
+  width: 28px;
+  margin-left: 12.0777%;
+}
